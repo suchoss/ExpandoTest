@@ -1,0 +1,39 @@
+{
+  "Id": "11456",
+  "Url": "http://www.uohs.cz/cs/verejne-zakazky/sbirky-rozhodnuti/detail-11456.html",
+  "Cj": "ÚOHS-R419/2013/VZ-9358/2014/310/LPa",
+  "Instance": "II.",
+  "Ucastnici": [
+    {
+      "Jmeno": "Sdružení TÚU Stráž – RVM – ČLUZ - AQUA",
+      "ICO": null
+    },
+    {
+      "Jmeno": "REKULTIVAČNÍ VÝSTAVBA Most, a.s.",
+      "ICO": "44569769"
+    },
+    {
+      "Jmeno": "České lupkové závody, a.s.",
+      "ICO": "26423367"
+    },
+    {
+      "Jmeno": "AQUASYS spol. s r.o.",
+      "ICO": "25344447"
+    }
+  ],
+  "Typ_spravniho_rizeni": "Veřejná zakázka",
+  "Typ_rozhodnuti": "rozklad zamítnut a napadené rozhodnutí potvrzeno",
+  "Rok": "2013",
+  "PravniMoc": "2014-05-06T00:00:00+02:00",
+  "SouvisejiciUrl": [
+    "http://www.uohs.cz/cs/verejne-zakazky/sbirky-rozhodnuti/detail-11455.html"
+  ],
+  "Rozhodnuti": {
+    "Url": "http://www.uohs.czSystem.String[]",
+    "Html": null,
+    "PlainText": "Č. j.: &Uacute;OHS-R419/2013/VZ-9358/2014/310/LPa",
+    "PlainTextQuality": null
+  },
+  "Uverejneno": null,
+  "Vec": "Likvidace povrchových areálů po hlubinné těžbě uranu – DIAMO s. p., o. z. TÚU Stráž pod Ralskem"
+}
